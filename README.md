@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Madaram Manasa Reddy
 
-🎓 An aspiring Electronics and Communication Engineering (ECE) student passionate about embedded systems, circuit design, and creative tech solutions. Currently pursuing my B.Tech from JNTUH – graduating in 2025.
+🎓 An aspiring Electronics and Communication Engineering (ECE) student passionate about embedded systems, circuit design, and creative tech solutions. Currently pursuing B.Tech from JNTUH – graduating in 2025.
 
 ---
 
